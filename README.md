@@ -1,2 +1,4 @@
 # collapse-leak
-core collapse practice
+
+### core collapse practice
+неоптимизированный калл, не советую использовать на своих серверах
