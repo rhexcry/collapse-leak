@@ -1,0 +1,103 @@
+{
+  "no_debuff": {
+    "mode": "no_debuff",
+    "spawnLocation": {
+      "x": 0,
+      "y": 55,
+      "z": 0,
+      "yaw": 0,
+      "pitch": 0,
+      "world": "ffa_no_debuff"
+    }
+  },
+  "crystal": {
+    "mode": "crystal",
+    "spawnLocation": {
+      "x": -3,
+      "y": 57,
+      "z": -77,
+      "yaw": 0,
+      "pitch": 0,
+      "world": "crystalpvp"
+    },
+    "spawnBounds": {
+      "minX": -8,
+      "minY": 57,
+      "minZ": -82,
+      "maxX": 2,
+      "maxY": 76,
+      "maxZ": -72
+    }
+  },
+  "midfight": {
+    "mode": "midfight",
+    "spawnLocation": {
+      "x": 0,
+      "y": 60,
+      "z": 0,
+      "yaw": 0,
+      "pitch": 0,
+      "world": "midfight"
+    },
+    "randomSpawns": [
+      {"x": 15, "y": 57, "z": 19},
+      {"x": -5, "y": 57, "z": 22},
+      {"x": -20, "y": 57, "z": 10},
+      {"x": -20, "y": 57, "z": -8},
+      {"x": -13, "y": 57, "z": -17},
+      {"x": 4, "y": 57, "z": -19}
+    ]
+  },
+  "gapple": {
+    "mode": "gapple",
+    "spawnLocation": {
+      "x": 119,
+      "y": 70.5,
+      "z": 126,
+      "yaw": 0,
+      "pitch": 0,
+      "world": "map2"
+    }
+  },
+  "sumo": {
+    "mode": "sumo",
+    "spawnLocation": {
+      "x": 0,
+      "y": 79,
+      "z": 0,
+      "yaw": 180,
+      "pitch": 0,
+      "world": "sumomap"
+    }
+  },
+  "build": {
+    "mode": "build",
+    "spawnLocation": {
+      "x": 0.5,
+      "y": 166,
+      "z": 0.5,
+      "yaw": 0,
+      "pitch": 0,
+      "world": "buildffa"
+    },
+    "spawnBounds": {
+      "minX": -10,
+      "minY": 155,
+      "minZ": -10,
+      "maxX": 10,
+      "maxY": 186,
+      "maxZ": 10
+    }
+  },
+  "resistance": {
+    "mode": "resistance",
+    "spawnLocation": {
+      "x": 0,
+      "y": -52,
+      "z": -80,
+      "yaw": 0,
+      "pitch": 0,
+      "world": "resistance"
+    }
+  }
+}

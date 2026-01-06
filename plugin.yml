@@ -1,0 +1,76 @@
+name: Practice
+version: 0.0.1-indev
+main: collapse\Practice
+src-namespace-prefix: collapse
+api: 5.25.3
+description: "A Minecraft: Bedrock Edition Practice"
+
+permissions:
+  collapse.command.ping:
+    default: true
+  collapse.command.showcoordinates:
+    default: true
+  collapse.command.reply:
+    default: true
+  collapse.command.tell:
+    default: true
+  collapse.command.world:
+    default: true
+  collapse.command.alts:
+    default: true
+  collapse.command.profile:
+    default: true
+  collapse.command.language:
+    default: true
+  collapse.command.setrank:
+    default: true
+  collapse.command.ban:
+    default: true
+  collapse.command.kick:
+    default: true
+  collapse.command.mute:
+    default: true
+  collapse.command.unban:
+    default: true
+  collapse.command.unmute:
+    default: true
+  collapse.command.lobby:
+    default: true
+  collapse.command.rekit:
+    default: true
+  collapse.command.report:
+    default: true
+  collapse.command.reports:
+    default: true
+  collapse.command.duel:
+    default: true
+  collapse.command.spectate:
+    default: true
+  collapse.command.currency:
+    default: true
+  collapse.command.observe:
+    default: true
+  collapse.command.clan:
+    default: true
+  collapse.command.friends:
+    default: true
+  collapse.command.quests:
+    default: true
+  collapse.command.kit:
+    default: true
+  collapse.command.online:
+    default: true
+  collapse.command.party:
+    default: true
+  collapse.command.no:
+    default: true
+  collapse.command.yes:
+    default: true
+  collapse.command.restart:
+    default: true
+  collapse.command.mp:
+    default: true
+  collapse.command.link:
+    default: true
+  collapse.command.ip:
+    default: true

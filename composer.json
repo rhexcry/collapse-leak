@@ -1,0 +1,27 @@
+{
+  "name": "collapse/practice",
+  "description": "A Minecraft: Bedrock Edition Practice",
+  "authors": [
+    {
+      "name": "Shusha228",
+      "email": "danil.belikov@urfu.me"
+    },
+    {
+      "name": "kezumi"
+    },
+    {
+      "name": "Velarance",
+      "email": "velaranceftw@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.3",
+    "mongodb/mongodb": "1.21.1",
+    "ext-mongodb": "*",
+    "friendsofphp/php-cs-fixer": "v3.71.0",
+    "ext-pmmpthread": "*",
+    "vlucas/phpdotenv": "^5.6",
+    "ext-gd": "*",
+    "ext-sockets": "*"
+  }
+}
